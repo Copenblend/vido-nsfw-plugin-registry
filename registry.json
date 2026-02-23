@@ -1,0 +1,20 @@
+{
+  "name": "Vido NSFW Plugin Registry",
+  "plugins": [
+    {
+      "id": "com.vido.osr2-plus",
+      "displayName": "OSR2+",
+      "description": "OSR2+ stroker device control — syncs funscript files with video playback via TCode over Serial and UDP connections.",
+      "author": "Vido",
+      "version": "1.0.0",
+      "license": "MIT",
+      "tags": ["osr2", "tcode", "funscript", "stroker", "haptics"],
+      "downloadUrl": "https://github.com/Copenblend/vido-osr-two-plus/releases/download/v1.0.0/vido-osr2-plus-1.0.0.zip",
+      "iconUrl": "https://raw.githubusercontent.com/Copenblend/vido-osr-two-plus/refs/heads/master/Assets/OSR2-plus-plugin.png",
+      "readmeUrl": "https://raw.githubusercontent.com/Copenblend/vido-osr-two-plus/refs/heads/master/README.md",
+      "changelogUrl": "https://raw.githubusercontent.com/Copenblend/vido-osr-two-plus/refs/heads/master/CHANGELOG.md",
+      "repository": "https://github.com/Copenblend/vido-osr-two-plus",
+      "lastUpdated": "2025-07-22T00:00:00Z"
+    }
+  ]
+}
