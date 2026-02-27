@@ -6,10 +6,10 @@
       "displayName": "OSR2+",
       "description": "OSR2+ stroker device control — syncs funscript files with video playback via TCode over Serial and UDP connections.",
       "author": "Vido",
-      "version": "4.1.0",
+      "version": "4.2.0",
       "license": "MIT",
       "tags": ["osr2", "tcode", "funscript", "stroker", "haptics"],
-      "downloadUrl": "https://github.com/Copenblend/vido-osr-two-plus/releases/download/v4.1.0/vido-osr2-plus-4.1.0.zip",
+      "downloadUrl": "https://github.com/Copenblend/vido-osr-two-plus/releases/download/v4.2.0/vido-osr2-plus-4.2.0.zip",
       "iconUrl": "https://raw.githubusercontent.com/Copenblend/vido-osr-two-plus/refs/heads/master/Assets/OSR2-plus-plugin.png",
       "readmeUrl": "https://raw.githubusercontent.com/Copenblend/vido-osr-two-plus/refs/heads/master/README.md",
       "changelogUrl": "https://raw.githubusercontent.com/Copenblend/vido-osr-two-plus/refs/heads/master/CHANGELOG.md",
@@ -32,7 +32,7 @@
       "dependencies": [
         {
           "id": "com.vido.osr2-plus",
-          "minVersion": "4.1.0"
+          "minVersion": "4.2.0"
         }
       ],
       "lastUpdated": "2026-02-26T00:00:00Z"
