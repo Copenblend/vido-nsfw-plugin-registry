@@ -12,6 +12,7 @@ obj/
 *.suo
 *.user
 *.sln.docstates
+.github/agents/
 
 # OS
 Thumbs.db
